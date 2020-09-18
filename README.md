@@ -1,7 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Yan-pg/Yan-pg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yan César and my experience is web and mobile development using Node.JS, React.JS and React Native technologies, I currently work as a frelancer. Please contact me at:
 
 Here are some ideas to get you started:
 
